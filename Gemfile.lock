@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    rails_currency (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hpricot (0.8.6)
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.7)
+  hpricot
+  rails_currency!
+  rake (~> 10.0)
