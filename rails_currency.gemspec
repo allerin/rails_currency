@@ -6,8 +6,8 @@ require 'rails_currency/version'
 Gem::Specification.new do |spec|
   spec.name          = "rails_currency"
   spec.version       = RailsCurrency::VERSION
-  spec.authors       = ["Anand Bait"]
-  spec.email         = ["anand.bait@allerin.com"]
+  spec.authors       = ['Allerin']
+  spec.email         = ['services@allerin.com']
   spec.summary       = %q{A Ruby gem to real time convert among different currencies}
   spec.description   = %q{A Ruby gem to real time convert among different currencies with services from xe.com and google.com}
   spec.homepage      = ""
